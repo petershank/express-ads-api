@@ -31,6 +31,6 @@ app.get("/", (req, res) => {
 });
 
 // starting the server
-app.listen(80, () => {
-  console.log("listening on port 3001 like a boss");
+app.listen(1234, () => {
+  console.log("listening on port 1234 like a boss");
 });
