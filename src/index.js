@@ -32,5 +32,5 @@ app.get("/", (req, res) => {
 
 // starting the server
 app.listen(1234, () => {
-  console.log("listening on port 1234 like a boss");
+  console.log("listening on port 1234 like an awesome boss");
 });
